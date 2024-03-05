@@ -67,7 +67,7 @@ ul{
 header{
     width: 100vw;
     height: 100vh;
-    background-image: url('images/bg_img.jpg');
+    background-image: url('bg_img.jpg');
     background-position: bottom;
     background-size: cover;
     display: flex;
@@ -168,7 +168,7 @@ p{
 .explore{
     width: 100%;
     height: 100vh;
-    background-image: url('images/explore.jpeg');
+    background-image: url('explore.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
